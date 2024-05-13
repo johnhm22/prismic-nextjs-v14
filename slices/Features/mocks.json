@@ -1,0 +1,156 @@
+[
+	{
+		"__TYPE__": "SharedSliceContent",
+		"variation": "default",
+		"primary": {
+			"heading": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "heading2",
+						"content": {
+							"text": "Robust features",
+							"spans": []
+						},
+						"direction": "ltr"
+					}
+				]
+			}
+		},
+		"items": [
+			{
+				"__TYPE__": "GroupItemContent",
+				"value": [
+					[
+						"icon",
+						{
+							"__TYPE__": "FieldContent",
+							"type": "Select",
+							"value": "clover"
+						}
+					],
+					[
+						"title",
+						{
+							"__TYPE__": "StructuredTextContent",
+							"value": [
+								{
+									"type": "heading3",
+									"content": {
+										"text": "Themselves"
+									}
+								}
+							]
+						}
+					],
+					[
+						"description",
+						{
+							"__TYPE__": "StructuredTextContent",
+							"value": [
+								{
+									"type": "paragraph",
+									"content": {
+										"text": "Eu anim dolor duis. Et dolor enim fugiat. Eu anim dolor duis. Et dolor enim fugiat.",
+										"spans": []
+									},
+									"direction": "ltr"
+								}
+							]
+						}
+					]
+				]
+			},
+			{
+				"__TYPE__": "GroupItemContent",
+				"value": [
+					[
+						"icon",
+						{
+							"__TYPE__": "FieldContent",
+							"type": "Select",
+							"value": "hourglass"
+						}
+					],
+					[
+						"title",
+						{
+							"__TYPE__": "StructuredTextContent",
+							"value": [
+								{
+									"type": "heading3",
+									"content": {
+										"text": "Another",
+										"spans": []
+									},
+									"direction": "ltr"
+								}
+							]
+						}
+					],
+					[
+						"description",
+						{
+							"__TYPE__": "StructuredTextContent",
+							"value": [
+								{
+									"type": "paragraph",
+									"content": {
+										"text": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Beatae aut quaerat officiis dolore ex accusamus aliquam nam laboriosam consectetur, magnam sed distinctio repellendus culpa earum vero cum, neque fuga praesentium?",
+										"spans": []
+									},
+									"direction": "ltr"
+								}
+							]
+						}
+					]
+				]
+			},
+			{
+				"__TYPE__": "GroupItemContent",
+				"value": [
+					[
+						"icon",
+						{
+							"__TYPE__": "FieldContent",
+							"type": "Select",
+							"value": "bargraph"
+						}
+					],
+					[
+						"title",
+						{
+							"__TYPE__": "StructuredTextContent",
+							"value": [
+								{
+									"type": "heading3",
+									"content": {
+										"text": "Icon here",
+										"spans": []
+									},
+									"direction": "ltr"
+								}
+							]
+						}
+					],
+					[
+						"description",
+						{
+							"__TYPE__": "StructuredTextContent",
+							"value": [
+								{
+									"type": "paragraph",
+									"content": {
+										"text": "Beatae aut quaerat officiis dolore ex accusamus aliquam nam laboriosam consectetur, magnam sed distinctio repellendus culpa earum vero cum, neque fuga praesentium?",
+										"spans": []
+									},
+									"direction": "ltr"
+								}
+							]
+						}
+					]
+				]
+			}
+		]
+	}
+]
