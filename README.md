@@ -10,7 +10,7 @@ In this case there are no .env variables.
 The only variable is the name of the repository held on Prismic which has a unique name and has been set up by the author of the app.  
 This is accessed by the app so that the CMS operates as desired, but otherwise requires a login/password to make changes.  
 The Prismic app repository also has a media library associated with it where the graphic files are stored.  
-Thus if the code is cloned, it serves as a means of running the app on the local machine.
+Thus if the code is cloned, it serves as a means of running the app on the local machine. The code can be changed in the components and slices to understand the impact. It could even be possible for the developer to create their own Prismic repo with slices, pages, graphics etc. and add the name of that repo into slicemachine.config.json as repositoryName.
 
 ## Reference  
 The code was taken from a follow-along tutorial entitled Next.js Full Website Tutorial Course - with Prismic, Tailwind, and TypeScript which can be found on YouTube at:   https://www.youtube.com/watch?v=nfZu56KsK_Q  
