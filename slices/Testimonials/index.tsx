@@ -77,6 +77,7 @@ const Testimonials = async ({
                       width={56}
                       imgixParams={{ ar: '1:1', fit: 'crop' }}
                       className='mr-4 rounded-full'
+                      alt=''
                     />
                   </div>
                   <div>

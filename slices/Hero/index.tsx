@@ -60,6 +60,7 @@ const Hero = ({ slice }: HeroProps): JSX.Element => {
             <PrismicNextImage
               field={slice.primary.image}
               className='w-full max-w-4xl drop-shadow-xl'
+              alt=''
             />
           </div>
           {/* </section> */}
@@ -92,6 +93,7 @@ const Hero = ({ slice }: HeroProps): JSX.Element => {
             <PrismicNextImage
               field={slice.primary.image}
               className='w-full max-w-4xl drop-shadow-xl'
+              alt=''
             />
           </div>
           {/* </section> */}

@@ -43,6 +43,7 @@ const TextWithImage = ({ slice }: TextWithImageProps): JSX.Element => {
             'rounded-lg',
             slice.variation === 'imageRight' && 'md:order-2'
           )}
+          alt=''
         />
         <div className='grid gap-4'>
           <PrismicRichText
